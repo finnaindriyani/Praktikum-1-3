@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body bgcolor="pink">
+            <title>Curriculum Vitae</title>
+        </body>
+        <b><i>
+        <marquee>SELAMAT DATANG </marquee>
+  
+        </b></i>
+        <h1 align="right">CURRIRULUM VITAE</h1>      
+                <center>
+ <img src="IMG_20210830_103422_442-min.jpg" width="100">
+   <table>
+    <tr>
+    <td>Nama</td>
+    <td>: Finna Indriyani</td>
+    </tr>
+    <tr>
+    <td>Tempat, tanggal lahir</td>
+    <td>: Depok, 22 February 2002
+    <tr>
+    <td>Kelas</td>
+    <td>: Sistem Informasi</td>
+    </tr>
+    <tr>
+    <td>Pendidikan</td>
+    <td>: STT Terpadu Nurul Fikri</td>
+    </tr>
+    <tr>
+    <td>Jenis Kelamin</td>
+    <td>: Perempuan</td>
+    </tr>
+    <tr>
+    <td>Status</td>
+    <td>: Single</td>
+    </tr>
+    <tr>
+    <td>Kewarganegaraan</td>
+    <td>: INDONESIA</td>
+    </tr>
+    <tr>
+    <td>Nomor telepon</td>
+    <td>:0882-1214-6143
+    <tr>
+   <td>Email</td>
+   <td>:Finnaindriyani02@gmail.com
+   </tr>
+   </table>
+   </center>
+   <h1 align="center">RIWAYAT PENDIDIKAN</h1>
+   <right>
+   <table>
+   <tr>
+   <td>SDN Pondok terong 03</td>
+   <td>: 2014</td>
+   </tr>
+   <tr>
+   <td>SMP N 09 Depok</td>
+   <td>: 2017</td>
+   </tr>
+   <tr>
+   <td>SMK Arrahman</td>
+   <td>: 2020</td>
+   </tr>
+   <tr>
+   <td>STT Terpadu Nurul Fikri</td>
+   <td>: Sekarang</td>
+   </tr>
+   </table>
+   </center>
+   <h1 align="center">PENGALAMAN</h1>
+   <right>
+   <table>
+   <tr>
+   <td>Steak Bara</td>
+   <td>: 6 Bulan</td>
+   </table>
+   </tr>
+</html>
